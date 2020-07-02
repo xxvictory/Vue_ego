@@ -21,7 +21,7 @@ ElementUI的card form  input  button
 引入mysql库  增加数据库访问
 
 ### 封装axios网络请求
-注意参考axios的文档
+参考axios的文档
 
 ### 封装了请求方案
 api文件处理
@@ -49,5 +49,3 @@ jsonwebtoken  jwt
 
 ### 百度富文本编辑器
 https://github.com/HaoChuan9421/vue-ueditor-wrap
-
-### 作业：注册功能
